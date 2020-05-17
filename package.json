@@ -11,7 +11,7 @@
     "prettier": "prettier --write packages/**/*.{js,ts,tsx,jsx}",
     "test": "jest",
     "codecov": "codecov",
-    "storybook": "start-storybook",
+    "storybook": "start-storybook",xx
     "build-storybook": "build-storybook -c .storybook -o .out"
   },
   "devDependencies": {
