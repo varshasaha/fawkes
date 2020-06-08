@@ -6,7 +6,6 @@
 minApprovals:
   MEMBER: 0
   
-
 # The maximum number of reviews from each association that request changes to the pull request.
 # Setting this number higher than 0 will allow automatic merging while changes are still requested.
 # Requested changes from associations not defined in this list are ignored for automatic merging.
